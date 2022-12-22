@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Bishopukpai
-- 👀 I’m interested in web development 
-- 🌱 I’m currently learning JavaScript and react
-- 💞️ I’m looking to collaborate on software development
+- 👀 I’m interested in web development (Frontend: React developer)
+- 🌱 I’m currently building projects with JavaScript and TypeScript
+- 💞️ I’m looking to collaborate on more software development projects 
 - 📫 How to reach me bishopukpai0@gmail.com 
 
 <!---
